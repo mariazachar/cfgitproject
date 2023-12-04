@@ -1,2 +1,2 @@
 Hello Coding Factory!
-Version 2 Hello cf
+Version 2 Hello cf!
